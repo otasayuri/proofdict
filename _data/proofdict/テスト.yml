@@ -6,8 +6,8 @@ patterns:
   - てすト
 allows: []
 specs:
-  - from: てすと
-    to: テスト
+  - from: てすとですよ
+    to: テストですよ
   - from: てすト
     to: テスト
 tags:
