@@ -1,0 +1,10 @@
+id: 01HPKB1B8WSZSD4ZH5Z0Q7X4GA
+description: aaaa
+expected: test
+patterns:
+  - tessst
+allows: []
+specs:
+  - from: tessst
+    to: test
+tags: []
