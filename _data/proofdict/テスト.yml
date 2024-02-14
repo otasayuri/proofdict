@@ -1,0 +1,14 @@
+id: 01HPKARCYKQFD1NNQQ4B4G0VT0
+description: てすとです
+expected: テスト
+patterns:
+  - てすと
+  - てすト
+allows: []
+specs:
+  - from: てすと
+    to: テスト
+  - from: てすト
+    to: テスト
+tags:
+  - noun
