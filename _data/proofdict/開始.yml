@@ -1,0 +1,11 @@
+id: 01HQQ9K2F18924V8NAV9CZ3J7N
+description: ''
+expected: 開始
+patterns:
+  - スタート
+allows:
+  - スタートアップ
+specs:
+  - from: スタートします
+    to: 開始します
+tags: []
